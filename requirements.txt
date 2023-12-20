@@ -7,5 +7,6 @@ seaborn
 joblib
 osfclient
 ipywidgets
+imbalanced-learn
 ramp-workflow==0.6.0
 
